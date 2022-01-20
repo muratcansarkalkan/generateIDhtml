@@ -1,5 +1,5 @@
 # generateIDhtml
-Basic HTML project I prepared for a coding task of job application process.
+Basic HTML project I prepared for a coding task of job application process. The content is Turkish.
 
 <h2>Contents</h2>
 
